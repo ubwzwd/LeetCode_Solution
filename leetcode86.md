@@ -1,4 +1,4 @@
-# LeetCode86 Partition List
+# LeetCode 86. Partition List
 
 ### Question:
 

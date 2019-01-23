@@ -1,4 +1,4 @@
-# Leetcode 92 Reverse Linked List II
+# Leetcode 92. Reverse Linked List II
 
 ### Question:
 

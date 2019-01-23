@@ -1,4 +1,4 @@
-# LeetCode138 Copy List with Random Pointer
+# LeetCode 138. Copy List with Random Pointer
 
 ### Question:
 
@@ -7,7 +7,7 @@ A linked list is given such that each node contains an additional random pointer
 Return a deep copy of the list.
 
 ```cpp
-// The shape of the list node:
+// The shape of the listnode:
 /**
  * Definition for singly-linked list with a random pointer.
  * struct RandomListNode {
