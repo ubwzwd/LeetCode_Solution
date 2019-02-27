@@ -8,4 +8,5 @@
 * [LeetCode 138. Copy List with Random Pointer](leetcode138-copy-list-with-random-pointer.md)
 * [LeetCode 21. Merge Two Sorted Lists](leetcode-21.-merge-two-sorted-lists.md)
 * [LeetCode 23. Merge k Sorted Lists](leetcode-23.-merge-k-sorted-lists.md)
+* [LeetCode 25. Reverse Nodes in k-Group](leetcode-25.-reverse-nodes-in-k-group.md)
 
