@@ -35,8 +35,6 @@ Output: false
 
 ### Analysis
 
-[http://zxi.mytechroad.com/blog/leetcode/leetcode-139-word-break**/**](http://zxi.mytechroad.com/blog/leetcode/leetcode-139-word-break/)\*\*\*\*
-
 {% embed url="http://zxi.mytechroad.com/blog/leetcode/leetcode-139-word-break/" %}
 
 **What's important:**
