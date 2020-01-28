@@ -9,12 +9,11 @@
 
 ## Linked List
 
-* [LeetCode 25. Reverse Nodes in k-Group](leetcode-25.-reverse-nodes-in-k-group.md)
-* [LeetCode 23. Merge k Sorted Lists](leetcode-23.-merge-k-sorted-lists.md)
-* [LeetCode 21. Merge Two Sorted Lists](leetcode-21.-merge-two-sorted-lists.md)
-* [LeetCode 138. Copy List with Random Pointer](leetcode138-copy-list-with-random-pointer.md)
-* [LeetCode 86. Partition List](leetcode86.md)
-* [Leetcode 92. Reverse Linked List II](leetcode-92-reverse-linked-list-ii.md)
-* [Leetcode 39. Combination Sum](leetcode-39.-combination-sum.md)
-  * [Topic1. Linked Lists](linked-lists.md)
+* [LeetCode 25. Reverse Nodes in k-Group](linked-list/leetcode-25.-reverse-nodes-in-k-group.md)
+* [LeetCode 23. Merge k Sorted Lists](linked-list/leetcode-23.-merge-k-sorted-lists.md)
+* [LeetCode 21. Merge Two Sorted Lists](linked-list/leetcode-21.-merge-two-sorted-lists.md)
+* [LeetCode 138. Copy List with Random Pointer](linked-list/leetcode138-copy-list-with-random-pointer.md)
+* [LeetCode 86. Partition List](linked-list/leetcode86.md)
+* [Leetcode 92. Reverse Linked List II](linked-list/leetcode-92-reverse-linked-list-ii.md)
+* [Leetcode 39. Combination Sum](linked-list/leetcode-39.-combination-sum.md)
 
