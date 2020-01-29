@@ -8,7 +8,9 @@
 
 **Tags**
 
-[`depth-first-search`](https://leetcode.com/tag/depth-first-search) \| [`union-find`](https://leetcode.com/tag/union-find)**Companies**
+[`depth-first-search`](https://leetcode.com/tag/depth-first-search) \| [`union-find`](https://leetcode.com/tag/union-find)\*\*\*\*
+
+**Companies**
 
 `bloomberg` \| `twosigma`
 

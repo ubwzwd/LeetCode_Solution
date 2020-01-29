@@ -8,7 +8,9 @@
 
 **Tags**
 
-[`tree`](https://leetcode.com/tag/tree) \| [`union-find`](https://leetcode.com/tag/union-find) \| [`graph`](https://leetcode.com/tag/graph)**Companies**
+[`tree`](https://leetcode.com/tag/tree) \| [`union-find`](https://leetcode.com/tag/union-find) \| [`graph`](https://leetcode.com/tag/graph)\*\*\*\*
+
+**Companies**
 
 `google`
 
