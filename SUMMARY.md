@@ -17,3 +17,7 @@
 * [Leetcode 92. Reverse Linked List II](linked-list/leetcode-92-reverse-linked-list-ii.md)
 * [Leetcode 39. Combination Sum](linked-list/leetcode-39.-combination-sum.md)
 
+## Union Find
+
+* [LeetCode 684. Redundant Connection](union-find/leetcode-684.-redundant-connection.md)
+
