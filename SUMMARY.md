@@ -21,4 +21,5 @@
 
 * [LeetCode 684. Redundant Connection](union-find/leetcode-684.-redundant-connection.md)
 * [LeetCode 547. Friend Circles](union-find/leetcode-547.-friend-circles.md)
+* [LeetCode 737. Sentence Similarity II](union-find/leetcode-737.-sentence-similarity-ii.md)
 
