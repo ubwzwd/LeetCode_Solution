@@ -23,3 +23,7 @@
 * [LeetCode 547. Friend Circles](union-find/leetcode-547.-friend-circles.md)
 * [LeetCode 737. Sentence Similarity II](union-find/leetcode-737.-sentence-similarity-ii.md)
 
+## Binary Search
+
+* [Module](binary-search/module.md)
+
