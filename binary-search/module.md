@@ -27,7 +27,7 @@ If we want upper bound
 int binarySearch(vector<int> a, int target){
     int left = 0, right = n;
     while(left < right){
-        mid = left+(right-left)/2;
+        mid = left+(right-left+1)/2;
         if(a[mid] > target) right = mid-1;
         // a[mid] <= target
         else left = mid;
