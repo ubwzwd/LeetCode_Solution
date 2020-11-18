@@ -18,7 +18,7 @@ int binarySearch(vector<int> a, int target){
 
 The stop requirement of the while loop is either left = right. So return left or right are both OK.
 
-The left is the first one no less than target.
+The left is the first one no less than the target.
 
 If we want upper bound
 

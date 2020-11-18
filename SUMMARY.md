@@ -27,3 +27,7 @@
 
 * [Module](binary-search/module.md)
 
+## String
+
+* [LeetCode 28. Implement strStr\(\)](string/leetcode-28.-implement-strstr.md)
+
