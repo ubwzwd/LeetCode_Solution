@@ -29,5 +29,13 @@
 
 ## String
 
-* [LeetCode 28. Implement strStr\(\)](string/leetcode-28.-implement-strstr.md)
+* [LeetCode 28. Implement strStr()](string/leetcode-28.-implement-strstr.md)
 
+## Resursion and DFS
+
+* [Summary of Recursion](resursion-and-dfs/summary-of-recursion.md)
+* [Summary of DFS problems](resursion-and-dfs/summary-of-dfs-problems.md)
+
+## Sort
+
+* [Quick Sort](sort/quick-sort.md)

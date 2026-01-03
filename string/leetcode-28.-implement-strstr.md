@@ -2,34 +2,34 @@
 description: KMP implementation
 ---
 
-# LeetCode 28. Implement strStr\(\)
+# LeetCode 28. Implement strStr()
 
 ### Question:
 
-| Category | Difficulty | Likes | Dislikes |
-| :--- | :--- | :--- | :--- |
-| algorithms | Easy \(33.41%\) | 1297 | 1700 |
+| Category   | Difficulty    | Likes | Dislikes |
+| ---------- | ------------- | ----- | -------- |
+| algorithms | Easy (33.41%) | 1297  | 1700     |
 
 **Tags**
 
-[`two-pointers`](https://leetcode.com/tag/two-pointers) \| [`string`](https://leetcode.com/tag/string)**Companies**
+[`two-pointers`](https://leetcode.com/tag/two-pointers) | [`string`](https://leetcode.com/tag/string)**Companies**
 
-`apple` \| `facebook` \| `microsoft` \| `pocketgems`
+`apple` | `facebook` | `microsoft` | `pocketgems`
 
-Implement [strStr\(\)](http://www.cplusplus.com/reference/cstring/strstr/).
+Implement [strStr()](http://www.cplusplus.com/reference/cstring/strstr/).
 
 Return the index of the first occurrence of needle in haystack, or **-1** if needle is not part of haystack.
 
 **Example 1:**
 
-```text
+```
 Input: haystack = "hello", needle = "ll"
 Output: 2
 ```
 
 **Example 2:**
 
-```text
+```
 Input: haystack = "aaaaa", needle = "bba"
 Output: -1
 ```
@@ -38,7 +38,7 @@ Output: -1
 
 What should we return when `needle` is an empty string? This is a great question to ask during an interview.
 
-For the purpose of this problem, we will return 0 when `needle` is an empty string. This is consistent to C's [strstr\(\)](http://www.cplusplus.com/reference/cstring/strstr/) and Java's [indexOf\(\)](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#indexOf%28java.lang.String%29).
+For the purpose of this problem, we will return 0 when `needle` is an empty string. This is consistent to C's [strstr()](http://www.cplusplus.com/reference/cstring/strstr/) and Java's [indexOf()](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#indexOf\(java.lang.String\)).
 
 ### Analyst:
 
@@ -98,4 +98,3 @@ public:
     }
 };
 ```
-

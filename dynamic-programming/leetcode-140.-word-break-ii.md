@@ -2,17 +2,17 @@
 
 ### Question
 
-| Category | Difficulty | Likes | Dislikes |
-| :--- | :--- | :--- | :--- |
-| algorithms | Hard \(29.44%\) | 1424 | 313 |
+| Category   | Difficulty    | Likes | Dislikes |
+| ---------- | ------------- | ----- | -------- |
+| algorithms | Hard (29.44%) | 1424  | 313      |
 
 **Tags**
 
-[`dynamic-programming`](https://leetcode.com/tag/dynamic-programming) \| [`backtracking`](https://leetcode.com/tag/backtracking)\*\*\*\*
+[`dynamic-programming`](https://leetcode.com/tag/dynamic-programming) | [`backtracking`](https://leetcode.com/tag/backtracking)
 
 **Companies**
 
-`dropbox` \| `google` \| `snapchat` \| `twitter` \| `uber`
+`dropbox` | `google` | `snapchat` | `twitter` | `uber`
 
 Given a **non-empty** string _s_ and a dictionary _wordDict_ containing a list of **non-empty** words, add spaces in _s_ to construct a sentence where each word is a valid dictionary word. Return all such possible sentences.
 
@@ -23,7 +23,7 @@ Given a **non-empty** string _s_ and a dictionary _wordDict_ containing a list o
 
 **Example 1:**
 
-```text
+```
 Input:
 s = "catsanddog"
 wordDict = ["cat", "cats", "and", "sand", "dog"]
@@ -36,7 +36,7 @@ Output:
 
 **Example 2:**
 
-```text
+```
 Input:
 s = "pineapplepenapple"
 wordDict = ["apple", "pen", "applepen", "pine", "pineapple"]
@@ -51,7 +51,7 @@ Explanation: Note that you are allowed to reuse a dictionary word.
 
 **Example 3:**
 
-```text
+```
 Input:
 s = "catsandog"
 wordDict = ["cats", "dog", "sand", "and", "cat"]
@@ -123,4 +123,3 @@ public:
 };
 // @lc code=end
 ```
-

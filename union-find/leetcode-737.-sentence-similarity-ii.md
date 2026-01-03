@@ -2,19 +2,19 @@
 
 ### Question:
 
-| Category | Difficulty | Likes | Dislikes |
-| :--- | :--- | :--- | :--- |
-| algorithms | Medium \(44.74%\) | 409 | 25 |
+| Category   | Difficulty      | Likes | Dislikes |
+| ---------- | --------------- | ----- | -------- |
+| algorithms | Medium (44.74%) | 409   | 25       |
 
 **Tags**
 
-[`depth-first-search`](https://leetcode.com/tag/depth-first-search) \| [`union-find`](https://leetcode.com/tag/union-find)\*\*\*\*
+[`depth-first-search`](https://leetcode.com/tag/depth-first-search) | [`union-find`](https://leetcode.com/tag/union-find)
 
 **Companies**
 
-`Unknown`'\[\["great","good"\],\["fine","good"\],\["drama","acting"\],\["skills","talent"\]\]'
+`Unknown`'\[\["great","good"],\["fine","good"],\["drama","acting"],\["skills","talent"]]'
 
-Given two sentences `words1, words2` \(each represented as an array of strings\), and a list of similar word pairs `pairs`, determine if two sentences are similar.
+Given two sentences `words1, words2` (each represented as an array of strings), and a list of similar word pairs `pairs`, determine if two sentences are similar.
 
 For example, `words1 = ["great", "acting", "skills"]` and `words2 = ["fine", "drama", "talent"]`are similar, if the similar word pairs are `pairs = [["great", "good"], ["fine", "good"], ["acting","drama"], ["skills","talent"]]`.
 
@@ -98,4 +98,3 @@ public:
 };
 // @lc code=end
 ```
-
